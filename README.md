@@ -4,12 +4,16 @@ Este repositório é dedicado à disciplina GCC 125 - Redes de Computadores da U
 
 ## Conteúdo
 
-- Anotações e resumos escritos a mão por mim
+- Anotações e resumos escritos a mão por mim.
 
 ## Recursos
 
 - **Videoaulas**: Acesse a playlist completa no YouTube: [Videoaulas do Professor Fabricio Breve](https://www.youtube.com/playlist?list=PLvHXLbw-JSPfKp65psX5C9tyNLHHC4uoR)
 - **Trabalho Prático**: [Trabalho prático](https://github.com/gabrafo/redestrabalho) da disciplina, realizado por mim e por outro aluno.
+
+## Ferramentas utilizadas
+
+Utilizei o programa [OneNote](www.onenote.com) para gerenciar minhas anotações, as exportando em forma de PDF. Também fiz uso de uma mesa digitalizadora para poder redigí-las a punho.
 
 ## Contribuições
 
